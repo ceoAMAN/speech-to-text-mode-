@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Uploaded files
+uploads/
+
+# Model cache
+*.pt
+*.pth
+*.bin
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
